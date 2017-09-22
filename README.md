@@ -1,4 +1,4 @@
-# Install instructions
+# LOL!
 
 To install and run Urbit please follow the instructions at
 [urbit.org/docs/using/install](http://urbit.org/docs/using/install).  Packages
